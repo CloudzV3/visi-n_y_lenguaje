@@ -1,0 +1,4 @@
+1.- instalar el dlib de la versión de python que se tenga 
+ejemplo : pip install dlib-19.24.1-cp311-cp311-win_amd64.whl
+2.- instalar cmake pip install cmake
+3.- instalar face recognition pip install face-recognition
